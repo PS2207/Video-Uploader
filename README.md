@@ -8,7 +8,7 @@ npm create vite@latest
 --------------------------------
 Run the Project:
 npm run dev
-
+This app will be initially starting at- http://localhost:5173
 ---------------------------------------------------------
 Install Required Packages :
 npm install axios react-router react-hot-toast
